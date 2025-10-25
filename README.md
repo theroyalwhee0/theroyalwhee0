@@ -1,8 +1,10 @@
 # theroyalwhee0
 
-I'm Adam Mill, also known as theroyalwhee0.
+Hi, I'm Adam Mill.
 
-I'm a software engineer and architect who codes for work and for fun. I primarily work with Rust and TypeScript.
+I mostly build tools I want to use and share.
+
+I primarily work with Rust. Occasionally with TypeScript and Python.
 
 ## Links
 
