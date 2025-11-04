@@ -1,12 +1,12 @@
-# Ignore all files by default.
+# Ignore all files, but allow all directories.
 *
-
-# Allow .gitignore itself.
 !.gitignore
+!*/
+!*/**/
+
+# Documentation.
+!README.md
 
 # Disallow completely.
 /.focus
 .local/
-
-# Documentation.
-!README.md
